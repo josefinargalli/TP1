@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    background-color: rgb(209, 244, 255);
+}
+
+h1{
+    text-align: center;
+    color: #00376e;
+    font-weight: 800;
+    font-family:'DM Sans';
+    font-size: 60px;
+    margin: 0px;
+    line-height: 1;
+}
+
+header{
+    background-color: #00376e;
+    text-align: right;
+}
+
+#vinculo{
+    font-family:'DM Sans';
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    margin-right: 40px;
+}
+
+a{
+    text-decoration: none;
+    color: #00376e;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.sobreMi{
+    font-family:'DM Sans';
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.estudios{
+    font-family:'DM Sans';
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.proyectosRecientes{
+    font-family:'DM Sans';
+    font-size: 24px;
+    font-weight: 600;
+}
+
+img{
+    margin: auto;
+    display: block;
+}
+
+.imagen1{
+    border-radius: 100%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: 20%;
+}
+
+h2{
+    font-family: 'DM Sans';
+    font-size: 32px;
+    color: #00376e;
+}
+
+.primerP{
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-size: 16px;
+    color: #00376e;
+}
+
+h2, p{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.segundoP{
+    font-family: 'Poppins';
+    font-weight: 500;
+    line-height: 1;
+    color: #00376e;
+}
+
+.subP{
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1;
+    color: #00376e;
+}
+
+.imagen2{
+    width: 50%;
+}
